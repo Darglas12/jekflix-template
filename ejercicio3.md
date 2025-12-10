@@ -22,6 +22,8 @@ git clone https://github.com/autor/tema-jekyll-ejemplo.git
 cd tema-jekyll-ejemplo
 
 ```
+![foto](/assets/img/2__1.png/)
+
 ## Preparación del entorno Jekyll
 
 Como en los ejercicios anteriores se utilizó un sistema Debian en el que se hizo lo siguiente:
@@ -64,6 +66,8 @@ Esta fase es importante para asegurarse de:
 
 Pero algo muy importante es que para yo poder probarle adecuadamente antes me tuve que enterar de como funcionaba leyendome el archivo README.md donde explica el funcionamiento del tema.
 
+![foto](/assets/img/2__2.png/)
+
 ## Personalización del sitio
 
 ### Edición del archivo config.yml
@@ -78,6 +82,8 @@ Dentro de este archivo se cambiaron:
 
 ### Creación de nuevas páginas o posts
 Como en el ejercicio anterior cree nuevos post basandome en el funcionamiento del tema.
+
+![foto](/assets/img/2__3.png/)
 
 ## Y ya por ultimo la subida del proyecto a github y despues su despliegue del sitio en Netlify
 
@@ -112,3 +118,5 @@ Para poder desplegarlo correctamente sin que de un error, primero hay que config
 ### Pruebas finales 
 
 Lo más seguro es que de algun error al iniciar asi que por ello dentro de la páguina hay una IA que te lee los errores que has tenido y te da soluciones para los mismos, hay que estar todo el rato iniciandolo hasta que porfin no te de ningun error y eso significara que por fin se desplego correcamente y aparecera un mensaje que diga "Publicado con éxito".
+
+![foto](/assets/img/2__4.png/)
